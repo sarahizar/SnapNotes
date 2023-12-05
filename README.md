@@ -7,7 +7,6 @@ The note-taking application is a user-friendly tool designed for efficient note 
 - [Description](#description)
 - [Installation](#installation)
 - [Technologies](#technologies)
-- [Usage](#usage)
 - [Contributions](#contributions)
 - [Screenshot](#screenshot)
 - [Questions](#github-username)
