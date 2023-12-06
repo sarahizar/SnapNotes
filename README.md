@@ -9,6 +9,7 @@ The note-taking application is a user-friendly tool designed for efficient note 
 - [Technologies](#technologies)
 - [Contributions](#contributions)
 - [Screenshot](#screenshot)
+- [Link](#link)
 - [Questions](#github-username)
 
 ## Installation
@@ -27,6 +28,10 @@ Starter code pulled from The Coding Boot Camp Source: https://github.com/coding-
 ## Screenshot
 ![My Image](/SnapMain.png)
 ![My Image](/Snap2nd.png)
+
+## Link 
+-Github Repository: https://github.com/sarahizar/SnapNotes.git
+-Deployed Heroku App: https://snapnotesapp-4e5643446734.herokuapp.com/
 
 ## Questions
 For additional questions, you can reach me through:
